@@ -80,13 +80,13 @@ streamlit run app.py
 ## 🖼️ Screenshots
 
 ### 🔹 **Diabetes Prediction**
-![Diabetes Prediction](Images/diabetes_prediction.png)
+![Diabetes Prediction](images/diabetes_prediction.png)
 
 ### 🔹 **Heart Disease Prediction**
-![Heart Prediction](Images/heart_disease_prediction.png)
+![Heart Prediction](images/heart_disease_prediction.png)
 
 ### 🔹 **Parkinson’s Prediction**
-![Parkinson’s Prediction](Images/parkinsons_prediction.png)
+![Parkinson’s Prediction](images/parkinsons_prediction.png)
 
 ---
 
